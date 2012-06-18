@@ -1,0 +1,66 @@
+@charset "iso-8859-1";
+/* Kauro CSS Document */
+
+.block
+{
+	background-color:#f0f080;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+}
+
+.number
+{
+	background-color:#ffffaa;
+	background-image:url(cross.jpg) ;
+	background-repeat:no-repeat;
+	font-weight:bold;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+}
+
+.inside
+{
+	background-color:#ffffdd;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+}
+
+.insidetable
+{
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+}
+.insidetable td
+{
+	width:16px;
+	height:16px;
+	padding:0px;
+	margin:0px;
+}
+
+.pencilbox
+{
+	display:none;
+	width:60px;
+	height:60px;
+}
+.pencilbox td
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#666666;
+	font-size:12px;
+	width:15px;
+	height:15px;
+	font-weight:100;
+	text-align:center;
+	vertical-align:middle;
+}
+

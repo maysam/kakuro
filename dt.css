@@ -1,0 +1,269 @@
+BODY {
+	FONT-SIZE: 8.2pt; COLOR: #5e6164; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+TD {
+	FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.regular {
+	FONT-SIZE: 7.2pt; BACKGROUND: #ffffff; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.input {
+	FONT-SIZE: 7.2pt; BACKGROUND: #ffffff; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.inputsm {
+	FONT-SIZE: 7.2pt; BACKGROUND: #ffffff; WIDTH: 70px; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.input1 {
+	FONT-SIZE: 7.2pt; BACKGROUND: #ffffff; WIDTH: 20px; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.input2 {
+	BORDER-RIGHT: #a9adb1 1px solid; BORDER-TOP: #a9adb1 1px solid; FONT: 9px Geneva, Verdana, Arial; BORDER-LEFT: #a9adb1 1px solid; WIDTH: 350px; COLOR: #333333; BORDER-BOTTOM: #a9adb1 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+.inputold {
+	FONT-SIZE: 7.2pt; BACKGROUND: #f6f6f6; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.h6green {
+	FONT-WEIGHT: bold; FONT-SIZE: 9.2pt; COLOR: #5a8716; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8.2pt; COLOR: #e22882; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h1old {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #e22882; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8.5pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h22 {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h33 {
+	FONT-WEIGHT: normal; FONT-SIZE: 6.5pt; COLOR: #7a7e82; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; COLOR: #7a7e82; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h41 {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; COLOR: black; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 9.2pt; COLOR: #7a7e82; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9.2pt; COLOR: #e22882; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h6green {
+	FONT-WEIGHT: bold; FONT-SIZE: 9.2pt; COLOR: #5a8716; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h6old {
+	FONT-WEIGHT: bold; FONT-SIZE: 9.2pt; COLOR: #CC3300; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h7 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #e22882; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.h71 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #7a7e82; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.img {
+	 PADDING-RIGHT: 5px;  PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;  PADDING-TOP: 2px;  
+}
+.img_white {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #ffffff; 
+}
+.img2 {
+	 PADDING-RIGHT: 5px; BORDER-right: #cccccc 1px solid; PADDING-LEFT: 5px; BORDER-left: #cccccc 1px solid; PADDING-BOTTOM: 5px; BORDER-bottom: #cccccc 1px solid; PADDING-TOP: 5px; BORDER-top: #cccccc 1px solid;
+}
+.img3 {
+	 BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #ffffff;  BORDER-BOTTOM: #cccccc 1px solid;
+}
+.img4 {
+	  BORDER-BOTTOM: #cccccc 1px solid; 
+}	 
+
+A:link {
+	COLOR: #CC3300; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #CC3300; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #218adb; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #CC3300; TEXT-DECORATION: underline
+}
+.top2 {
+	FONT-SIZE: 8.5pt; FONT-FAMILY: Helvetica, Verdana, Arial
+}
+.top2 A:link {
+	COLOR: #676767; TEXT-DECORATION: none
+}
+.top2 A:visited {
+	COLOR: #676767; TEXT-DECORATION: none
+}
+.top2 A:active {
+	COLOR: #676767; TEXT-DECORATION: none
+}
+.top2 A:hover {
+	COLOR: #b90000; TEXT-DECORATION: none
+}
+.top {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.top A:link {
+	FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:visited {
+	FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:active {
+	FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:hover {
+	FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.board A:link {
+	COLOR: #003aa5; TEXT-DECORATION: none
+}
+.board A:visited {
+	COLOR: #697ea5; TEXT-DECORATION: none
+}
+.board A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.board A:hover {
+	COLOR: #b90000; TEXT-DECORATION: underline
+}
+.exif {
+	FONT-SIZE: 7.5pt; COLOR: #7f8080
+}
+.keywords {
+	FONT-SIZE: 7pt; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica, Arial
+}
+.frm_table {
+	BACKGROUND-COLOR: #cccccc
+}
+.frm_td1 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; COLOR: #5e6164; PADDING-TOP: 2px; FONT-FAMILY: Verdana,  Arial, Helvetica; color:#FF0000; BACKGROUND-COLOR: #CCCCCC
+}
+.frm_td2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #5e6164; PADDING-TOP: 2px; FONT-FAMILY: Verdana,  Arial, Helvetica; BACKGROUND-COLOR: #ffffff
+}
+.frm_td3 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #5e6164; PADDING-TOP: 2px; FONT-FAMILY: Verdana,  Arial, Helvetica; BACKGROUND-COLOR: #f0f1f5; border-bottom:#CCCCCC 1px solid
+}
+.frm_td4 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 16px; COLOR: #5e6164; PADDING-TOP: 0px; FONT-FAMILY: Verdana,  Arial, Helvetica; BACKGROUND-COLOR: #ffffff
+}
+.frm_td5 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #88898b; PADDING-TOP: 2px; FONT-FAMILY: Verdana,  Arial, Helvetica
+}
+.frm_td6 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #5e6164; PADDING-TOP: 2px; FONT-FAMILY: Verdana,  Arial, Helvetica; BACKGROUND-COLOR: #ffffff
+}
+.frm_td7 {
+	FONT: 7.1pt Arial; COLOR: #ff0000
+}
+.redl A:link {
+	COLOR: #e22882; TEXT-DECORATION: none
+}
+.redl A:visited {
+	COLOR: #e22882; TEXT-DECORATION: none
+}
+.redl A:active {
+	COLOR: #e22882; TEXT-DECORATION: none
+}
+.redl A:hover {
+	COLOR: #e22882; TEXT-DECORATION: underline
+}
+.bluebold {
+	FONT-WEIGHT: bold; COLOR: #003aa5
+}
+/* Kauro CSS Document */
+
+.block
+{
+	background-color: #E0DCBA  ;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.number
+{
+	background-color:#ffffaa;
+	background-image:url(cross.jpg) ;
+	background-repeat:no-repeat;
+	font-weight:bold;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+}
+
+.inside
+{
+	background-color:#ffffdd;
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.insidetable
+{
+	width:60px;
+	height:60px;
+	padding:0px;
+	margin:0px;
+	
+}
+.insidetable td
+{
+	width:16px;
+	height:16px;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.pencilbox
+{
+	display:none;
+	width:60px;
+	height:60px;
+}
+.pencilbox td
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#666666;
+	font-size:12px;
+	width:15px;
+	height:15px;
+	font-weight:100;
+	text-align:center;
+	vertical-align:middle;
+}
+
+h1 { 
+text-decoration: none; 
+margin-top: 0; 
+margin-bottom: 0; 
+font-size: 16px;
+color:#CC3300;
+display: inline;
+} 
+
+h2 { 
+text-decoration: none; 
+margin-top: 0; 
+margin-bottom: 0; 
+font-size: 11px;
+display: inline;
+} 
